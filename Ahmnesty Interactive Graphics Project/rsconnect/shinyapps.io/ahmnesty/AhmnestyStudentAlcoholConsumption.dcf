@@ -1,0 +1,12 @@
+name: AhmnestyStudentAlcoholConsumption
+title: AhmnestyStudentAlcoholConsumption
+username:
+account: ahmnesty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3401346
+bundleId: 3990010
+url: https://ahmnesty.shinyapps.io/AhmnestyStudentAlcoholConsumption/
+when: 1607998138.40523
+asMultiple: FALSE
+asStatic: FALSE
